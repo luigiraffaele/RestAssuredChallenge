@@ -5,7 +5,7 @@
     <classes>
       <class name="Zippopotamus.GetPostalDataTests">
         <methods>
-          <include name="CodesWithDifferentSecondDigitsShouldBeFromDifferentCities"/>
+          <include name="CodesWithDifferentFirstDigitsShouldBeFromDifferentStates"/>
         </methods>
       </class> <!-- Zippopotamus.GetPostalDataTests -->
     </classes>
